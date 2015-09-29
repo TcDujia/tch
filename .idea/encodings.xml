@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://D:/Code/tc-intervacation-front/pack.json" charset="UTF-8" />
+    <file url="file://D:/Code/tc-intervacation-front/weixin/assets/lib/a.base.less" charset="UTF-8" />
+    <file url="file://D:/Code/tc-intervacation-front/weixin/assets/lib/a.icon.less" charset="UTF-8" />
+    <file url="file://D:/Code/tc-intervacation-front/weixin/assets/lib/b.search.less" charset="UTF-8" />
+    <file url="file://D:/Code/tc-intervacation-front/weixin/extra.json" charset="UTF-8" />
+    <file url="file://D:/Code/tc-intervacation-front/weixin/ftpTemp.json" charset="UTF-8" />
+    <file url="file://D:/Code/tc-intervacation-front/weixin/modules/common/calendar/index.css" charset="UTF-8" />
+    <file url="file://D:/Code/tc-intervacation-front/weixin/modules/common/city/dep.js" charset="UTF-8" />
+    <file url="file://D:/Code/tc-intervacation-front/weixin/modules/common/city/dep.less" charset="UTF-8" />
+    <file url="file://D:/Code/tc-intervacation-front/weixin/modules/common/city/dest.js" charset="UTF-8" />
+    <file url="file://D:/Code/tc-intervacation-front/weixin/modules/common/city/dest.less" charset="UTF-8" />
+    <file url="file://D:/Code/tc-intervacation-front/weixin/modules/common/filter/index.js" charset="UTF-8" />
+    <file url="file://D:/Code/tc-intervacation-front/weixin/modules/common/filter/index.less" charset="UTF-8" />
+    <file url="file://D:/Code/tc-intervacation-front/weixin/modules/utils/location/index.html" charset="UTF-8" />
+    <file url="file://D:/Code/tc-intervacation-front/weixin/modules/utils/location/index.js" charset="UTF-8" />
+    <file url="file://D:/Code/tc-intervacation-front/weixin/modules/utils/location/index.less" charset="UTF-8" />
+    <file url="file://D:/Code/tc-intervacation-front/weixin/modules/utils/location/views/tip.dot" charset="UTF-8" />
+  </component>
+</project>

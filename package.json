@@ -1,0 +1,72 @@
+{
+  "name": "tch",
+  "version": "0.7.0",
+  "description": "Front End Integrated Solution for TC",
+  "main": "tch.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "bin": {
+    "tch": "bin/tch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gerdy/tch"
+  },
+  "keywords": [
+    "tch"
+  ],
+  "author": {
+    "name": "gerdy"
+  },
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/gerdy/tch/issues"
+  },
+  "homepage": "https://github.com/gerdy/tch",
+  "dependencies": {
+    "fis": "^1.7.14",
+    "fis-lint-csslint": "0.0.2",
+    "fis-lint-jshint": "0.0.9",
+    "fis-optimizer-clean-css": "0.0.12",
+    "fis-optimizer-uglify-js": "0.0.8",
+    "fis-parser-dot": "0.0.1",
+    "fis-parser-less": "0.1.0",
+    "fis-parser-marked": "0.0.2",
+    "fis-postprocessor-require-async": "0.0.8",
+    "tch-command-br": "0.0.1",
+    "tch-command-clear": "0.0.5",
+    "tch-command-count": "0.0.3",
+    "tch-command-help": "0.0.2",
+    "tch-command-mock": "0.0.1",
+    "tch-command-pack": "0.2.9",
+    "tch-command-release": "0.2.0",
+    "tch-command-tmpl": "0.0.3",
+    "tch-lint-jshint": "0.0.1",
+    "tch-postpackager-autoload": "0.0.1",
+    "tch-postpackager-simple": "0.0.4",
+    "tch-prepackager-dot": "0.0.2"
+  },
+  "_id": "tch@0.4.8",
+  "_shasum": "6288f61bb440fbcb11862a0d08edc42fa9b3b5fb",
+  "_from": "tch@",
+  "_npmVersion": "1.4.21",
+  "_npmUser": {
+    "name": "gerdy",
+    "email": "imfpe@qq.com"
+  },
+  "maintainers": [
+    {
+      "name": "gerdy",
+      "email": "imfpe@qq.com"
+    }
+  ],
+  "dist": {
+    "shasum": "d9a2f2bddbd8bc709877a9ec7fb7ca4698cc6eeb",
+    "tarball": "http://registry.npmjs.org/tch/-/tch-0.1.7.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/tch/-/tch-0.1.7.tgz",
+  "gitHead": "c3c6d77689bd9100c05a50c9a93b8850f929d5fe",
+  "readme": "ERROR: No README data found!"
+}
