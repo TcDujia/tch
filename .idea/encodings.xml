@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://D:/Code/tc-intervacation-front/app/modules/tc/daren/share/index.less" charset="UTF-8" />
     <file url="file://D:/Code/tc-intervacation-front/pack.json" charset="UTF-8" />
     <file url="file://D:/Code/tc-intervacation-front/weixin/assets/lib/a.base.less" charset="UTF-8" />
     <file url="file://D:/Code/tc-intervacation-front/weixin/assets/lib/a.icon.less" charset="UTF-8" />
@@ -18,5 +19,6 @@
     <file url="file://D:/Code/tc-intervacation-front/weixin/modules/utils/location/index.js" charset="UTF-8" />
     <file url="file://D:/Code/tc-intervacation-front/weixin/modules/utils/location/index.less" charset="UTF-8" />
     <file url="file://D:/Code/tc-intervacation-front/weixin/modules/utils/location/views/tip.dot" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

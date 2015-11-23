@@ -1,6 +1,6 @@
 {
   "name": "tch",
-  "version": "0.7.1",
+  "version": "0.7.3",
   "description": "Front End Integrated Solution for TC",
   "main": "tch.js",
   "scripts": {
@@ -39,7 +39,7 @@
     "tch-command-count": "0.0.3",
     "tch-command-help": "0.0.2",
     "tch-command-mock": "0.0.1",
-    "tch-command-pack": "0.3.0",
+    "tch-command-pack": "0.3.2",
     "tch-command-release": "0.2.0",
     "tch-command-tmpl": "0.0.3",
     "tch-lint-jshint": "0.0.1",
