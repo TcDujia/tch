@@ -1,6 +1,6 @@
 {
   "name": "tch",
-  "version": "0.7.3",
+  "version": "0.7.4",
   "description": "Front End Integrated Solution for TC",
   "main": "tch.js",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gerdy/tch"
+    "url": "https://github.com/TcDujia/tch"
   },
   "keywords": [
     "tch"
@@ -21,9 +21,9 @@
   },
   "license": "BSD",
   "bugs": {
-    "url": "https://github.com/gerdy/tch/issues"
+    "url": "https://github.com/TcDujia/tch/issues"
   },
-  "homepage": "https://github.com/gerdy/tch",
+  "homepage": "https://github.com/TcDujia/tch",
   "dependencies": {
     "fis": "^1.7.14",
     "fis-lint-csslint": "0.0.2",
@@ -39,7 +39,7 @@
     "tch-command-count": "0.0.3",
     "tch-command-help": "0.0.2",
     "tch-command-mock": "0.0.1",
-    "tch-command-pack": "0.3.2",
+    "tch-command-pack": "0.3.3",
     "tch-command-release": "0.2.0",
     "tch-command-tmpl": "0.0.3",
     "tch-lint-jshint": "0.0.1",
